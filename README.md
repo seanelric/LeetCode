@@ -1,2 +1,2 @@
 # LeetCode
-Practice algorithm
+Practice algorithm.
